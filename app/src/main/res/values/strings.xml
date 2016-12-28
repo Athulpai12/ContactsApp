@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactsAp_</string>
+    <string name="title_activity_contact_detail">ContactDetail</string>
+</resources>
